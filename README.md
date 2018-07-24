@@ -21,10 +21,6 @@ Jyotish library requires PHP 5.6 or later and [Swiss Ephemeris](https://github.c
 
 The files in this library are released under the GNU General Public License version 2 or later.
 
-## Demo
-
-To test Jyotish library, a demo website is online: [jyotish.su](http://jyotish.su), or visit social dating service [abboom.com](https://abboom.com)
-
 ## Literature
 
 Most of the calculations are based on the following books:
